@@ -1,0 +1,9 @@
+{
+  "apps": {
+    "winlab.nctu.unicastdhcp": {
+      "whoami": {
+        "name": "Magikarp"
+      }
+    }
+  }
+}
