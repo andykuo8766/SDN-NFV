@@ -1,5 +1,4 @@
-# SDN-NFV
-## NCTU SDN-NFV
+# NCTU SDN-NFV
 * Lab1 ONOS + Mininet
 * Lab2 OpenFlow + Flow Rule
 * Lab3 ONOS Application Development_SDN-enabled Learning Bridge
